@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harish Narayan</h1>
 <h3 align="center">A passionate</h3>
 
+- 🔭 I'm currently exploring **fields of Network Security and Blockchain.**
+
+- 🌱I’m currently learning **cloud technologies especially AWS, and getting my basics on the fundamentals of blockchain technology.**
+
+- 🤝 I’m actively looking out **for interesting problems that would really make an impact on being solved.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harishnarayan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishnarayan03" height="30" width="40" /></a>
