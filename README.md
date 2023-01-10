@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harish Narayan</h1>
-<h3 align="center">A passionate</h3>
+<h1 align="center">Hello! 👋, I'm Harish Narayan</h1>
+<h3 align="center">A passionate Cybersecurity student from India.</h3>
 
 - 🔭 I'm currently exploring **fields of Network Security and Blockchain.**
 
