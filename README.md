@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Harish Narayan</h1>
 <h3 align="center">A passionate Cybersecurity student from India.</h3>
 
-- 🔭 I'm interested in the **fields of Network Security and Blockchain.**
+- 🔭 I'm interested in the **fields of Network Security and AI.**
 
-- 🌱I’m currently learning **cloud technologies especially AWS, and getting my basics right on the fundamentals of blockchain technology.**
+- 🌱I’m currently learning **cloud technologies especially GCP,getting my basics right on the fundamentals of Software Development and learning to adopt to the generative AI improvements.**
 
 - 🤝 I’m actively looking out **for interesting problems that would really make an impact on being solved.**
 
