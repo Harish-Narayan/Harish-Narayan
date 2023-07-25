@@ -3,7 +3,7 @@
 
 - 🔭 I'm interested in the **fields of Network Security and AI.**
 
-- 🌱I’m currently learning **cloud technologies especially GCP,getting my basics right on the fundamentals of Software Development and learning to adopt to the generative AI improvements.**
+- 🌱I’m currently learning **cloud technologies especially GCP, getting my basics right on the fundamentals of Software Development and learning to adopt to the generative AI improvements.**
 
 - 🤝 I’m actively looking out **for interesting problems that would really make an impact on being solved.**
 
